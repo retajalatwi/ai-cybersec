@@ -1,4 +1,7 @@
-# 🛡️ AI & Emerging Tech Security Workshop: Prompt Injection & Red Teaming
+# [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/retajalatwi/ai-cybersec/blob/main/AI_Security_Workshop.ipynb)
+
+AI & Emerging Tech Security Workshop: Prompt Injection & Red Teaming
+
 
 مرحباً بكم في ورشة العمل التفاعلية لتأمين التقنيات الناشئة وتطبيقات الذكاء الاصطناعي. تركز هذه الورشة على التطبيق البرمجي والمحاكاة المباشرة لتحديات الأمن السيبراني في نماذج اللغة الضخمة (LLMs).
 
